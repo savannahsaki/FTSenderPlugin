@@ -7,7 +7,7 @@ What is it?
 FTSenderPlugin is an easy to use UIViewController category that allows for
 sending of in-app text messages and emails.
 
-For example use see the sample project.
+For example use see below or the sample project.
 
 How to use?
 ---------------------
