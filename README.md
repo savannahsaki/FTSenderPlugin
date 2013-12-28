@@ -40,7 +40,7 @@ How to use?
   </code>
 </blockquotes>
 
-Licence
+License
 ---------------------
 Copyright (c) 2013 Filip Troennberg
 
